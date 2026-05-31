@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="YOUR_BANNER_IMAGE_LINK"/>
+<img width="100%" src="./banner.png"/>
 
 # Hi 👋 I'm Sudharsan G
 
