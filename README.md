@@ -102,9 +102,13 @@ React • Node.js • Express • MongoDB • JWT
 
 # 📊 GitHub Analytics
 
+<p align="center">
+
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sudharsanganapathy&show_icons=true&theme=tokyonight" />
 
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sudharsanganapathy&layout=compact&theme=tokyonight" />
+
+</p>
 
 ---
 
