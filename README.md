@@ -79,7 +79,6 @@ Realtime Communication
 ```
 
 Demo: https://quickchat-realtime.vercel.app/ 
-Repository: https://github.com/sudharsanganapathy/quickchat-fullstack
 
 ---
 
