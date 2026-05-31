@@ -8,16 +8,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Scalable+Applications;MERN+Stack+Developer;Backend+%2B+Realtime+Systems;Always+Learning+New+Things"/>
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=sudharsanganapathy&label=Profile+Views"/>
-
-<img src="https://img.shields.io/github/followers/sudharsanganapathy?label=Followers"/>
-
-<img src="https://img.shields.io/github/stars/sudharsanganapathy?affiliations=OWNER"/>
-
-</p>
-
 </div>
 
 ---
