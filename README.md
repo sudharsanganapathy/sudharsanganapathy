@@ -4,7 +4,7 @@
 
 # Hi 👋 I'm Sudharsan G
 
-### Full Stack Developer • MERN Stack Enthusiast • Backend Focused 🚀
+### Full Stack Developer • MERN Stack Enthusiast • Backend Focused 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Scalable+Applications;MERN+Stack+Developer;Backend+%2B+Realtime+Systems;Always+Learning+New+Things"/>
 
@@ -78,8 +78,8 @@ Socket Server
 Realtime Communication
 ```
 
-Demo: [https://quickchat-realtime.vercel.app/]  
-Repository: [Add Link]
+Demo: https://quickchat-realtime.vercel.app/ 
+Repository: https://github.com/sudharsanganapathy/quickchat-fullstack
 
 ---
 
@@ -103,13 +103,13 @@ React • Node.js • Express • MongoDB • JWT
 
 # 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sudharsanganapathy&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sudharsanganapathy&show_icons=true&theme=tokyonight" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudharsanganapathy&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudharsanganapathy&layout=compact&theme=tokyonight" />
 
-</div>
+</p>
 
 ---
 
@@ -152,6 +152,6 @@ Email: sudharsanganapathy24@gmail.com
 
 <div align="center">
 
-### "Code • Learn • Build • Repeat 🚀"
+### "Code • Learn • Build • Repeat "
 
 </div>
