@@ -117,7 +117,7 @@ React • Node.js • Express • MongoDB • JWT
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sudharsanganapathy&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudharsanganapthy&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudharsanganapathy&layout=compact&theme=tokyonight"/>
 
 </div>
 
@@ -127,7 +127,7 @@ React • Node.js • Express • MongoDB • JWT
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sudharsanganapathy&theme=tokyonight"/>
 
 </div>
 
@@ -135,16 +135,16 @@ React • Node.js • Express • MongoDB • JWT
 
 # 📈 Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sudharsanganapathy&theme=tokyo-night"/>
 
 ---
 
 # 🏆 Developer Metrics
 
 ```text
-Projects Built      → XX+
-DSA Problems        → XX+
-Repositories        → XX+
+Projects Built      → 7+
+DSA Problems        → 70+
+Repositories        → 10+
 Technologies Used   → 10+
 ```
 
