@@ -78,7 +78,7 @@ Socket Server
 Realtime Communication
 ```
 
-Demo: [Add Link]  
+Demo: [https://quickchat-realtime.vercel.app/]  
 Repository: [Add Link]
 
 ---
@@ -142,11 +142,11 @@ Technologies Used   → 10+
 
 # 🌐 Connect With Me
 
-LinkedIn: YOUR_LINKEDIN  
+LinkedIn: https://linkedin.com/in/sudharsan2410
 
-Portfolio: YOUR_PORTFOLIO  
+Portfolio: https://sudharsan-dev.vercel.app/ 
 
-Email: YOUR_EMAIL  
+Email: sudharsanganapathy24@gmail.com  
 
 ---
 
