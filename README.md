@@ -2,7 +2,7 @@
 
 <img width="100%" src="./banner.png"/>
 
-# Hi 👋 I'm Sudharsan G
+# Hi... I'm Sudharsan G
 
 ### Full Stack Developer • MERN Stack Enthusiast • Backend Focused 
 
