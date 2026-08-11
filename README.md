@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="./banner.png" alt="Sudharsan G"/>
+<img src="./banner.png" width="100%" alt="Sudharsan G"/>
 
 <br/>
 
@@ -10,22 +10,22 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+Modern+Full+Stack+Applications;Engineering+REST+APIs+%26+Real-Time+Systems;MERN+Stack+Developer;Backend+Focused+%7C+Problem+Solver;Learning+DSA+%7C+TypeScript+%7C+System+Design" alt="Typing SVG"/>
 
-<br/>
+<br/><br/>
 
 <a href="https://sudharsan-dev.vercel.app">
-<img src="https://img.shields.io/badge/PORTFOLIO-58A6FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
-&nbsp;
+
 <a href="https://linkedin.com/in/sudharsan2410">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-&nbsp;
-<a href="mailto:sudharsanganapathy24@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
+
 <a href="https://github.com/sudharsanganapathy">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="mailto:sudharsanganapathy24@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
@@ -42,36 +42,25 @@
 
 </div>
 
-I'm a **Full Stack Developer** focused on building modern web applications with the **MERN stack**, with a strong interest in backend engineering, API architecture and real-time communication.
+I'm a **Full Stack Developer** focused on building modern web applications using the **MERN stack**, with a strong interest in backend engineering, REST API architecture, authentication and real-time communication.
 
-I enjoy taking an idea from **interface → API → database → deployment** and turning it into a complete working product.
+I enjoy taking an idea from **frontend → backend → database → deployment** and turning it into a complete working product.
 
 ```text
-                    ┌─────────────────────────┐
-                    │       IDEA / PRODUCT     │
-                    └────────────┬────────────┘
-                                 │
-                                 ▼
-                    ┌─────────────────────────┐
-                    │      REACT FRONTEND      │
-                    └────────────┬────────────┘
-                                 │
-                         REST / REAL-TIME
-                                 │
-                                 ▼
-                    ┌─────────────────────────┐
-                    │    NODE + EXPRESS API    │
-                    └────────────┬────────────┘
-                                 │
-                                 ▼
-                    ┌─────────────────────────┐
-                    │   MONGODB / MONGOOSE     │
-                    └────────────┬────────────┘
-                                 │
-                                 ▼
-                    ┌─────────────────────────┐
-                    │       DEPLOYMENT         │
-                    └─────────────────────────┘
+IDEA
+ │
+ ▼
+REACT FRONTEND
+ │
+ │ REST API / REAL-TIME
+ ▼
+NODE + EXPRESS
+ │
+ ▼
+MONGODB
+ │
+ ▼
+DEPLOYMENT
 ```
 
 ---
@@ -82,7 +71,7 @@ I enjoy taking an idea from **interface → API → database → deployment** an
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td align="center">
 
 ### ⚡ FULL STACK
 
@@ -94,7 +83,7 @@ Responsive UI
 
 </td>
 
-<td width="33%" align="center">
+<td align="center">
 
 ### 🔥 BACKEND
 
@@ -106,7 +95,7 @@ Authorization
 
 </td>
 
-<td width="33%" align="center">
+<td align="center">
 
 ### 🌐 REAL-TIME
 
@@ -130,25 +119,25 @@ Private Messaging
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,vite" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,vite" alt="Frontend Technologies"/>
 
 <br/><br/>
 
 ### Backend & Database
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend Technologies"/>
 
 <br/><br/>
 
 ### Tools & Deployment
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm,vercel,render" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm,vercel,render" alt="Development Tools"/>
 
 <br/><br/>
 
-### Exploring Next
+### Currently Exploring
 
-<img src="https://skillicons.dev/icons?i=ts" />
+<img src="https://skillicons.dev/icons?i=ts" alt="TypeScript"/>
 
 </div>
 
@@ -160,49 +149,40 @@ Private Messaging
 
 ### Real-Time Communication Platform
 
-> A full-stack messaging application engineered around REST APIs and real-time WebSocket communication.
+A full-stack messaging application built around **REST APIs + real-time WebSocket communication**.
 
-<br/>
+### 🔥 Key Features
 
-### 🔥 What It Does
-
-```text
-┌────────────────────────────────────────────────────┐
-│                     QUICKCHAT                      │
-├────────────────────────────────────────────────────┤
-│                                                    │
-│  🔐 Authentication       JWT + bcrypt              │
-│  💬 Messaging            Real-time communication   │
-│  🟢 Presence             Online / Offline status   │
-│  👤 Conversations        Private messaging         │
-│  🖼️ Media                Cloudinary integration     │
-│  🛡️ APIs                 Protected REST endpoints  │
-│  📱 UI                   Responsive React app      │
-│                                                    │
-└────────────────────────────────────────────────────┘
-```
+* ⚡ Real-time messaging
+* 🔐 JWT authentication
+* 🛡️ Protected APIs
+* 👤 Private conversations
+* 🟢 Online / offline presence
+* 🖼️ Image sharing
+* ☁️ Cloudinary integration
+* 📱 Responsive interface
+* 🔄 Real-time events with Socket.io
 
 ### 🏗️ Architecture
 
 ```text
-                         ┌───────────────┐
-                         │ React Client  │
-                         └───────┬───────┘
-                                 │
-                   ┌─────────────┴─────────────┐
-                   │                           │
-                REST API                  Socket.io
-                   │                           │
-                   ▼                           ▼
-          ┌────────────────┐          ┌────────────────┐
-          │ Express Server │          │ Socket Server  │
-          └───────┬────────┘          └────────────────┘
-                  │
-                  ▼
-          ┌────────────────┐
-          │    MongoDB     │
-          │   + Mongoose   │
-          └────────────────┘
+              ┌─────────────────┐
+              │  React Client   │
+              └────────┬────────┘
+                       │
+              ┌────────┴────────┐
+              │                 │
+           REST API          Socket.io
+              │                 │
+              ▼                 ▼
+       ┌──────────────┐   ┌──────────────┐
+       │Express Server│   │Socket Server │
+       └───────┬──────┘   └──────────────┘
+               │
+               ▼
+        ┌─────────────┐
+        │   MongoDB   │
+        └─────────────┘
 ```
 
 ### 🧩 Stack
@@ -212,7 +192,7 @@ Private Messaging
 <div align="center">
 
 <a href="https://quickchat-realtime.vercel.app/">
-<img src="https://img.shields.io/badge/▶%20LIVE%20DEMO-58A6FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/▶%20LIVE%20DEMO-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="QuickChat Live Demo"/>
 </a>
 
 </div>
@@ -223,40 +203,40 @@ Private Messaging
 
 ### Flight Management System
 
-> A full-stack flight management platform designed around authentication, flight operations, bookings and role-based administration.
+A full-stack flight management platform designed around **authentication, flight operations, bookings and role-based administration**.
 
-### 🔐 Core Engineering
+### 🔐 Core Architecture
 
 ```text
-Authentication
-      │
-      ▼
-JWT Verification
-      │
-      ▼
-Role-Based Middleware
-      │
- ┌────┴────┐
- ▼         ▼
-USER      ADMIN
- │          │
- ▼          ▼
-Flights    Manage Flights
-Bookings   Manage Bookings
-Profile    Admin Operations
-      │
-      ▼
-   MongoDB
+USER
+ │
+ ▼
+REACT FRONTEND
+ │
+ ▼
+JWT AUTHENTICATION
+ │
+ ▼
+EXPRESS API
+ │
+ ├──── Flight Management
+ │
+ ├──── Booking Management
+ │
+ └──── Admin Operations
+ │
+ ▼
+MONGODB
 ```
 
 ### ✨ Features
 
 * ✈️ Flight management
-* 🎫 Booking workflow
+* 🎫 Flight booking
 * 🔐 JWT authentication
 * 👥 Role-based access
-* 🛡️ Protected APIs
-* 📊 Admin operations
+* 🛡️ Protected routes
+* 👨‍💼 Admin operations
 * 🗄️ MongoDB persistence
 * 📱 Responsive React interface
 
@@ -266,57 +246,82 @@ Profile    Admin Operations
 
 ---
 
-## 🍽️ PUSHPAVALLI KITCHEN
+## 🎓 STUDENT MANAGEMENT SYSTEM
 
-### Premium Restaurant Web Experience
+### Full-Stack Student Administration Platform
 
-> A modern restaurant website focused on premium visual design, smooth interactions and responsive user experience.
+A management platform focused on handling student records, authentication and administrative operations through a structured web application.
 
-### ✨ Built With
+### ✨ Features
 
-`React` · `Tailwind CSS` · `GSAP` · `Framer Motion` · `React Router` · `Vite`
+* 🔐 JWT authentication
+* 👥 Role-based access
+* ➕ Student creation
+* ✏️ Student updates
+* 🗑️ Student deletion
+* 🔍 Student management
+* 📊 Admin dashboard
+* 🌐 REST API architecture
 
-### 🎨 Focus
+### 🏗️ Application Flow
 
 ```text
-Premium UI
-   ↓
-Micro Interactions
-   ↓
-Smooth Animations
-   ↓
-Responsive Design
-   ↓
-Modern User Experience
+             CLIENT
+                │
+                ▼
+        ┌───────────────┐
+        │ React Frontend│
+        └───────┬───────┘
+                │
+                ▼
+        ┌───────────────┐
+        │ Express REST  │
+        │      API      │
+        └───────┬───────┘
+                │
+        ┌───────┴────────┐
+        │                │
+        ▼                ▼
+ Authentication      CRUD Logic
+        │                │
+        └───────┬────────┘
+                ▼
+           ┌─────────┐
+           │   SQL   │
+           └─────────┘
 ```
+
+### 🧩 Stack
+
+`HTML` · `CSS` · `JavaScript` · `Node.js` · `Express.js` · `SQL`
 
 ---
 
 # 🧩 HOW I THINK ABOUT DEVELOPMENT
 
 ```text
-                 PROBLEM
-                    │
-                    ▼
-              Understand
-                    │
-                    ▼
-                Design
-                    │
-                    ▼
-               Implement
-                    │
-                    ▼
-                 Test
-                    │
-                    ▼
-               Optimize
-                    │
-                    ▼
-                Deploy
+              PROBLEM
+                 │
+                 ▼
+            UNDERSTAND
+                 │
+                 ▼
+              DESIGN
+                 │
+                 ▼
+             IMPLEMENT
+                 │
+                 ▼
+               TEST
+                 │
+                 ▼
+             OPTIMIZE
+                 │
+                 ▼
+              DEPLOY
 ```
 
-### My development priorities
+### Engineering Priorities
 
 ```text
 01 → Clean & maintainable code
@@ -325,7 +330,7 @@ Modern User Experience
 04 → Good database design
 05 → Responsive user experience
 06 → Performance awareness
-07 → Continuous improvement
+07 → Continuous learning
 ```
 
 ---
@@ -334,17 +339,17 @@ Modern User Experience
 
 <div align="center">
 
-| Concept        | What I Work With                 |
-| :------------- | :------------------------------- |
-| Authentication | JWT, bcrypt                      |
-| Authorization  | Role-Based Access                |
-| APIs           | REST Architecture                |
-| Middleware     | Auth, Validation, Error Handling |
-| Database       | MongoDB, Mongoose, SQL           |
-| Real-Time      | Socket.io                        |
-| Media          | Cloudinary                       |
-| Testing        | Postman                          |
-| Deployment     | Render, Vercel                   |
+| Area           | Technologies / Concepts         |
+| :------------- | :------------------------------ |
+| Authentication | JWT · bcrypt                    |
+| Authorization  | Role-Based Access               |
+| APIs           | REST Architecture               |
+| Middleware     | Authentication · Error Handling |
+| Database       | MongoDB · Mongoose · SQL        |
+| Real-Time      | Socket.io                       |
+| Media          | Cloudinary                      |
+| API Testing    | Postman                         |
+| Deployment     | Render · Vercel                 |
 
 </div>
 
@@ -352,9 +357,9 @@ Modern User Experience
 
 # 🧠 DSA & PROBLEM SOLVING
 
-I practice **Data Structures & Algorithms** to improve problem-solving ability and prepare for real-world engineering challenges and technical interviews.
+I regularly practice **Data Structures & Algorithms** to strengthen problem-solving skills, understand common patterns and improve time & space complexity analysis.
 
-### Patterns I'm practicing
+### Patterns I'm Practicing
 
 ```text
 Arrays
@@ -371,51 +376,51 @@ Trees
 JavaScript Problem Solving
 ```
 
-### Current approach
+### My Problem-Solving Loop
 
 ```text
-Solve
-  ↓
-Understand the Pattern
-  ↓
-Analyze Time Complexity
-  ↓
-Analyze Space Complexity
-  ↓
-Optimize
-  ↓
-Implement Again
+        SOLVE
+          ↓
+   FIND THE PATTERN
+          ↓
+    ANALYZE COMPLEXITY
+          ↓
+       OPTIMIZE
+          ↓
+      IMPLEMENT
+          ↓
+       REPEAT
 ```
 
 ---
 
-# 📚 CURRENTLY BUILDING MY NEXT LEVEL
+# 📚 CURRENTLY LEARNING
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center">
 
-### 🟦 TypeScript
+### 🟦 TYPESCRIPT
 
-Writing safer and more maintainable applications.
+Building safer and more maintainable applications.
 
 </td>
 
-<td align="center" width="33%">
+<td align="center">
 
 ### 🧠 DSA
 
-Strengthening algorithmic thinking and problem solving.
+Strengthening algorithmic thinking.
 
 </td>
 
-<td align="center" width="33%">
+<td align="center">
 
-### 🏗️ System Design
+### 🏗️ SYSTEM DESIGN
 
-Learning how scalable systems are structured.
+Learning scalable architecture.
 
 </td>
 </tr>
@@ -429,9 +434,11 @@ Learning how scalable systems are structured.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sudharsanganapathy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=sudharsanganapathy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" width="100%" alt="GitHub Stats"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudharsanganapathy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudharsanganapathy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%" alt="Top Languages"/>
 
 </div>
 
@@ -441,25 +448,19 @@ Learning how scalable systems are structured.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=sudharsanganapathy&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=sudharsanganapathy&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Contribution Streak"/>
 
 </div>
 
 ---
 
-# 🏆 GITHUB TROPHIES
+# 📈 CONTRIBUTION GRAPH
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sudharsanganapathy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sudharsanganapathy&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Graph"/>
 
 </div>
-
----
-
-# 📈 CONTRIBUTION ACTIVITY
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sudharsanganapathy&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
 ---
 
@@ -469,7 +470,7 @@ Learning how scalable systems are structured.
 
 |                          |                          |
 | :----------------------: | :----------------------: |
-|      🚀 **Projects**     |          **7+**          |
+|   🚀 **Projects Built**  |          **7+**          |
 |    🧠 **DSA Problems**   |          **70+**         |
 |    📦 **Repositories**   |          **10+**         |
 |    ⚙️ **Technologies**   |          **10+**         |
@@ -485,23 +486,23 @@ Learning how scalable systems are structured.
 <div align="center">
 
 <a href="https://sudharsan-dev.vercel.app">
-<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-Visit%20My%20Website-58A6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-Visit%20My%20Website-58A6FF?style=for-the-badge" alt="Portfolio"/>
 </a>
 
 <br/><br/>
 
 <a href="https://linkedin.com/in/sudharsan2410">
-<img src="https://img.shields.io/badge/LINKEDIN-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:sudharsanganapathy24@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/sudharsanganapathy">
-<img src="https://img.shields.io/badge/GITHUB-Explore%20My%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-Explore%20My%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </div>
@@ -518,6 +519,6 @@ Learning how scalable systems are structured.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=140&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=140&section=footer" width="100%" alt="Footer"/>
 
 </div>
